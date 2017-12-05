@@ -43,3 +43,7 @@ github_name: <github_username>
 
 在index页面也可以增加excerpt文章简介功能。
 在`index.html`中的`site.pages`这一行下增加一行`{{ post.excerpt}}`
+
+# help
+
+[github help about jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
